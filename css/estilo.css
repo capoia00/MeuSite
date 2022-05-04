@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    font-family: "Lato", sans-serif;
+    background-image: url(../img/785668.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.main {
+    margin-top: 30px;
+    height: 1500px;
+    margin-left: 160px;
+    font-size: 28px;
+    padding: 0px 10px;
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.contat {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 35px;
+    color: #ffffff;
+    display: block;
+    font-family: Arial Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    color: #818181;
+    display: block;
+    font-family: Arial Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+}
+
+.sidenav a:hover {
+    color: #ffffff;
+}
+
+.galery {
+    width: 640px;
+    height: 360px;
+    overflow: hidden;
+
+}
+
+.galery .fotos {
+    width: 500%;
+    animation-name: animacao;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+}
+
+.galery .fotos img {
+    width: 19.9%;
+}
+
+.imgajust {
+
+    margin-left: 300px;
+    margin-top: 0;
+}
+
+.ppa {
+    padding: 6px 8px 6px 180px;
+    text-decoration: none;
+    font-size: 35px;
+    color: #ffffff;
+    display: block;
+    font-family: Arial Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+
+}
+
+.inicio {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 35px;
+    color: #ffffff;
+    display: block;
+    font-family: Arial Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+}
+.inicioo {
+    padding: 60px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 35px;
+    color: #ffffff;
+    display: block;
+    font-family: Arial Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+}
+.upp {
+    width: 640px;
+    text-decoration: none;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    display: block;
+    font-family: Arial Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+}
+.upp h1 {
+    padding: 6px 8px 6px 6px;
+    text-decoration: none;
+    font-size: 35px;
+    color: rgb(242, 242, 242);
+    display: block;
+    font-family: Arial Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+}
+.gale2 {
+    padding-top: 10px;
+    width: 640px;
+    height: 360px;
+    overflow: hidden;
+}
+.curriculo {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    color: #ffffff;
+    display: block;
+    font-family: Arial Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+}
